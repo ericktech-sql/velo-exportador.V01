@@ -71,12 +71,10 @@ O **Velo Exportador** foi criado para simplificar a rotina de quem precisa expor
 
 ## 📥 Download e Execução
 
-O executável do **RunDB** é empacotado como um arquivo único e auto-contido para Windows.
-
-➡️ **Acesse a [Página de Releases](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases) para baixar a versão mais recente.**
+➡️ **Acesse a [Página de Releases](https://github.com//ericktech-sql/velo-exportador.V01/releases) para baixar a versão mais recente.**
 <br><br>
 ou clique para baixar: <br><br>
-https://github.com/ericktech-sql/rundb-exportadorDeDados/releases/download/exportador-de-dados/RunDB.-.Exportador.de.dados.zip
+https://github.com/ericktech-sql/velo-exportador.V01/releases/download/velo-exportador-v1.0.6.4/VeloExportador-1.0.6.4.exe
 
 ### Como Instalar:
 1. Faça o download do arquivo.
@@ -126,7 +124,7 @@ https://github.com/ericktech-sql/rundb-exportadorDeDados/releases/download/expor
 
 Encontrou algum comportamento inesperado no **RunDB**? Tem alguma sugestão de melhoria ou de um novo banco de dados que gostaria de ver suportado?
 
-Utilize a aba de **[Issues](https://--)** aqui no GitHub para reportar. Sua participação é fundamental para a evolução da ferramenta!
+Utilize a aba de **[Issues](https://github.com/ericktech-sql/velo-exportador.V01/issues)** aqui no GitHub para reportar. Sua participação é fundamental para a evolução da ferramenta!
 
 ---
 
