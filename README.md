@@ -1,9 +1,9 @@
 # 🗄️ Velo Exportador
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/rundb-exportadorDeDados)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/velo-exportador.V01)
 
 
-[![GitHub all releases](https://img.shields.io/github/downloads/ericktech-sql/rundb-exportadorDeDados/total)](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/ericktech-sql/velo-exportador.V01/total)](https://github.com//ericktech-sql/velo-exportador.V01/releases)
 
 [![License](https://img.shields.io/badge/licença-MIT-blue)](./LICENSE)
 
