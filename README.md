@@ -85,9 +85,7 @@ https://github.com/ericktech-sql/velo-exportador.V01/releases/download/velo-expo
 
 ---
 
-## 🖼️ Interface do Sistema (Screenshots)
-
-*Espaço reservado para você inserir imagens da tela do programa.*
+## 🖼️ Interface do Sistema 
 
 ### Tela de Boas-Vindas
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/dd507707-4d5d-4ae9-951e-69d9e06eea43" />
