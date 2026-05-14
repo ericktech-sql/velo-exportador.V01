@@ -51,6 +51,8 @@ O **Velo Exportador** foi criado para simplificar a rotina de quem precisa expor
 <br>
 | **Gdoor** | **Firebird** |
 <br>
+| **Atmacom Polaris** | **Firebird** |
+<br>
 | **Lc Sistema** | **Mysql** |
 <br>
 | **Sistema Hiper (novo)** | **SQL Server** |
